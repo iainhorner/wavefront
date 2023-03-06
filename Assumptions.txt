@@ -1,0 +1,7 @@
+Sensor Temperature values will be with min and max values or error
+Sensor Pressure values will be with min and max values or error
+Users are required to enter Temperature units
+Users are required to enter Pressure units
+Sensors reading are presented up to 16 decimal places unless set otherwise in the config file
+The readings are to be read continually until the program is closed or stopped
+
