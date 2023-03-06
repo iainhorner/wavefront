@@ -1,6 +1,6 @@
 .vs/WaveFront/FileContentIndex/
-TestProject/bin/
 TestProject/obj/
-WaveFront/bin/
 WaveFront/obj/
 .vs/
+WaveFront/bin/
+TestProject/bin/
